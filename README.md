@@ -1,1 +1,1 @@
-# Geophysics-Lab
+# Seismic Lab
