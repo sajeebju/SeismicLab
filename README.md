@@ -1,2 +1,1 @@
-# Geophysics Lab
-Undergraduate geophysics lab solution - Seismic Part Only
+# Geophysics Lab - Seismic Part
