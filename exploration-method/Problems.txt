@@ -1,4 +1,4 @@
-Write a Matlab script to compute the bulk modulus, shear modulus, Vp, and Vs of the rocks listed in the table below using their Young's moduli,
+Write a Matlab script to compute the bulk modulus, shear modulus, Vp, and Vs of the rocks listed in the table below using their Young's moduli, (Table_problem1.jpg)
 A common Compressional wave velocity for saturated, unconsolidated materials is 1400 m/s. If a seismic wave with a frequency of 10 Hz is traveling through this material, what is the wavelength of the wave? What is the wavelength of a wave with a frequency of 100 Hz?
 What is the wavelength of a 10-Hz wave propagating through bedrock with a velocity of 4500 m/s? What is the wavelength of a wave with a frequency of 100 Hz?
 Calculate the velocity of a compressional wave in a homogeneous rock layer with a density of 2.60 g/cm3, a Young's modulus of 0.39×1011 N/m2, and a Poisson's ratio of 0.11.
